@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "registration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "indhra",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.23.1",
+    "minimalist-notation": "^1.11.11",
+    "minimist": "^1.2.6"
+  }
+}
